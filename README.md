@@ -1,7 +1,7 @@
-# timedropper
-timedropper is a jQuery UI timepicker. Manage time input fields in a standard form. Focus on the input to open an small interactive timepicker.
+# timedropper with seconds
+The original timedropper was fine plugin, But it doesn't have seconds to select, So i did a little modify for those who has same needs as mine.
 
 
-[Usage and Examples](http://bit.ly/1MrG1pH)
+Check the original version: [Original timedropper](http://bit.ly/1MrG1pH)
 
 
