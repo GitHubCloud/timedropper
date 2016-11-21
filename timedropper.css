@@ -174,7 +174,7 @@
     vertical-align: middle;
     line-height: 42px;
     text-align: center;
-    margin: 6px;
+    margin:0;
     position: relative;
     z-index: 2;
     cursor: pointer;
