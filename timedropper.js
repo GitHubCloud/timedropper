@@ -140,7 +140,7 @@
                     _td_c.find('.td-deg').css('transform', 'rotate(' + (deg) + 'deg)');
 
                     if (t.index() == 0) {
-                        var c = Math.round((h * 360 / 12));
+                        var c = Math.round((h * 360 / 23));
                         _td_c.find('.td-lancette div:last').css('transform', 'rotate(' + (c) + 'deg)');
                     } else if (t.index() == 1) {
                         _td_c.find('.td-lancette div').eq(1).css('transform', 'rotate(' + (deg) + 'deg)');
